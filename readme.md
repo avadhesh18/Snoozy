@@ -13,7 +13,7 @@ Snoopy now wants to sleep on your Android TV screen. Will you let him?
 
 ## Download
 
-Check the [Releases page](https://github.com/theothernt/AerialViews/releases) there are two variants app-release.apk and app-release-1080.apk
+Check the [Releases page](https://github.com/theothernt/Snoozy/releases) there are two variants app-release.apk and app-release-1080.apk
 The first file includes 720p videos so the file size is low and it should run smoothly on boxes that have low ram. If your box is a performance beast download the 1080 version and enjoy Snoozy in HD.
 
 ## How to set Snoozy as the default screensaver
